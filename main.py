@@ -10,14 +10,15 @@ import requests
 import aiohttp
 import asyncio
 
+
 import os
 import re
 
-SUDOS = "5086015489"
+SUDOS = "5560822867"
 
 SUDO = [int(i) for i in SUDOS.split()]
-if 5086015489 not in SUDO:
-    SUDO.append(5086015489)
+if 5560822867 not in SUDO:
+    SUDO.append(5560822867)
 
 
 
