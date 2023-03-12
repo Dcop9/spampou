@@ -23,7 +23,7 @@ if 5086015489 not in SUDO:
 
 API_ID = "1885739"
 API_HASH = "6bd646032e21791c0913cd75a88dd0b7"
-BOT_TOKEN = "5491713652:AAFOTxZpsFGhk0gbyMBH9xLGMvXAGcGR3eA"
+BOT_TOKEN = "5491713652:6292612694:AAGRCGBsVAbcINihylv6EtwAOJyZrMSNbZk"
 LOG_ID = -1001736119322
 MONGO_URL = "mongodb+srv://elianaapi:pranav8935@cluster0.gf5ky.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
